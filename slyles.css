@@ -558,6 +558,7 @@ img {
   min-height: 576px;
   padding: 24px;
 
+  visibility: visible;
   transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .backdroup.is-hidden .modal {
